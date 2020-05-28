@@ -27,8 +27,9 @@ More details on our plans are available through the research proposal:
 
 ## Background reading
 
-Some publications that provide an introductory overview to some aspects of our planned research:
-* Morgan, Oliver (2019). "How decision makers can use quantitative approaches to guide outbreak responses". Philosophical Transactions of the Royal Society B: Biological Sciences. 374 (1776): 20180365. doi:[10.1098/rstb.2018.0365](https://doi.org/10.1098/rstb.2018.0365)
-* Chretien, Jean-Paul; Rivers, Caitlin M.; Johansson, Michael A. (2016). "Make Data Sharing Routine to Prepare for Public Health Emergencies". PLOS Medicine. 13 (8): e1002109. doi:[10.1371/journal.pmed.1002109](https://doi.org/10.1371/journal.pmed.1002109)
-* Keeling, Matt (2005). "The implications of network structure for epidemic dynamics". Theoretical Population Biology. 67 (1): 1–8. doi:[10.1016/j.tpb.2004.08.002](https://doi.org/10.1098/10.1016/j.tpb.2004.08.002)
-* Castro, K. G. (2007). "Tuberculosis Surveillance: Data for Decision-Making". Clinical Infectious Diseases. 44 (10): 1268–1270. doi:[10.1086/514351](https://doi.org/10.1098/10.1086/514351)
+* Some publications that provide an introductory overview to some aspects of our planned research:
+  * Morgan, Oliver (2019). "How decision makers can use quantitative approaches to guide outbreak responses". Philosophical Transactions of the Royal Society B: Biological Sciences. 374 (1776): 20180365. doi:[10.1098/rstb.2018.0365](https://doi.org/10.1098/rstb.2018.0365)
+  * Chretien, Jean-Paul; Rivers, Caitlin M.; Johansson, Michael A. (2016). "Make Data Sharing Routine to Prepare for Public Health Emergencies". PLOS Medicine. 13 (8): e1002109. doi:[10.1371/journal.pmed.1002109](https://doi.org/10.1371/journal.pmed.1002109)
+  * Keeling, Matt (2005). "The implications of network structure for epidemic dynamics". Theoretical Population Biology. 67 (1): 1–8. doi:[10.1016/j.tpb.2004.08.002](https://doi.org/10.1098/10.1016/j.tpb.2004.08.002)
+  * Castro, K. G. (2007). "Tuberculosis Surveillance: Data for Decision-Making". Clinical Infectious Diseases. 44 (10): 1268–1270. doi:[10.1086/514351](https://doi.org/10.1098/10.1086/514351)
+* We have begun to curate a list of relevant literature [here](https://tools.wmflabs.org/scholia/topics/Q5227350,Q95612615,Q1331926,Q4417999,Q84263196,Q202864,Q88434121,Q87745177,Q10538943,Q88835036,Q1149776,Q309901,Q29032648,Q45933174).
