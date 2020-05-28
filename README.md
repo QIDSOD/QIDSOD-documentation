@@ -18,6 +18,17 @@ We will quantify the effects of data flow modifications to identify parameter se
 
 # Further information
 
-More details on our plans are available through the research proposal, which has been published in May 2020:
+We are just getting started, but here are some resources to help you get into the mood of thinking along.
+
+## Research proposal
+
+More details on our plans are available through the research proposal:
 * Mietchen D, Li J (2020) Quantifying the Impact of Data Sharing on Outbreak Dynamics (QIDSOD). Research Ideas and Outcomes 6: e54770. https://doi.org/10.3897/rio.6.e54770
 
+## Background reading
+
+Some publications that provide an introductory overview to some aspects of our planned research:
+* Morgan, Oliver (2019). "How decision makers can use quantitative approaches to guide outbreak responses". Philosophical Transactions of the Royal Society B: Biological Sciences. 374 (1776): 20180365. doi:[10.1098/rstb.2018.0365](https://doi.org/10.1098/rstb.2018.0365)
+* Chretien, Jean-Paul; Rivers, Caitlin M.; Johansson, Michael A. (2016). "Make Data Sharing Routine to Prepare for Public Health Emergencies". PLOS Medicine. 13 (8): e1002109. doi:[10.1371/journal.pmed.1002109](https://doi.org/10.1371/journal.pmed.1002109)
+* Keeling, Matt (2005). "The implications of network structure for epidemic dynamics". Theoretical Population Biology. 67 (1): 1–8. doi:[10.1016/j.tpb.2004.08.002](https://doi.org/10.1098/10.1016/j.tpb.2004.08.002)
+* Castro, K. G. (2007). "Tuberculosis Surveillance: Data for Decision-Making". Clinical Infectious Diseases. 44 (10): 1268–1270. doi:[10.1086/514351](https://doi.org/10.1098/10.1086/514351)
