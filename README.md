@@ -2,7 +2,7 @@
 
 This repository contains documentation related to the project "Quantifying the Impact of Data Sharing on Outbreak Dynamics" (QIDSOD) that is 
 - jointly led by 
-  - [Jundong Li](https://github.com/jundongl) (School of Engineering and Applied Science, Electrical and Computer Engineering, Computer Science & School of Data Science at the University of Virginia) and 
+  - [Jundong Li](https://github.com/jundongl) (School of Engineering and Applied Science &mdash; Electrical and Computer Engineering / Computer Science &mdash; and School of Data Science at the University of Virginia) and 
   - [Daniel Mietchen](https://github.com/Daniel-Mietchen) (School of Data Science at the University of Virginia)
 - jointly funded through a [COVID-19 Rapid Response grant](http://web.archive.org/web/20200525045741/https://gidi.virginia.edu/covid-19-rapid-response) by 
   - the [Global Infectious Diseases Institute](https://gidi.virginia.edu/) (GIDI) at the University of Virginia, in partnership with 
@@ -30,6 +30,8 @@ More details on our plans are available through the research proposal:
 * Some publications that provide an introductory overview to some aspects of our planned research:
   * Morgan, Oliver (2019). "How decision makers can use quantitative approaches to guide outbreak responses". Philosophical Transactions of the Royal Society B: Biological Sciences. 374 (1776): 20180365. doi:[10.1098/rstb.2018.0365](https://doi.org/10.1098/rstb.2018.0365)
   * Atzrodt, Cassandra L.; Maknojia, Insha; McCarthy, Robert D.P.; Oldfield, Tiara M.; Po, Jonathan; Ta, Kenny T.L.; Stepp, Hannah E.; Clements, Thomas P. (2020). "A Guide to COVID‐19: a global pandemic caused by the novel coronavirus SARS‐CoV‐2". The FEBS Journal. doi:[10.1111/febs.15375](https://doi.org/10.1111/febs.15375).
+  * Friston, Karl J.; Parr, Thomas; Zeidman, Peter; Razi, Adeel; Flandin, Guillaume; Daunizeau, Jean; Hulme, Oliver J.; Billig, Alexander J.; Litvak, Vladimir; Moran, Rosalyn J.; Price, Cathy J.; Lambert, Christian (2020-04-09). "Dynamic causal modelling of COVID-19". arXiv:[2004.04463](https://arxiv.org/abs/2004.04463).
+    * See also [this interview with the lead author](https://www.theguardian.com/world/2020/may/31/covid-19-expert-karl-friston-germany-may-have-more-immunological-dark-matter)
   * Sheikh, Asiyah; Sheikh, Zakariya; Sheikh, Aziz (2020). "Novel approaches to estimate compliance with lockdown measures in the COVID-19 pandemic". Journal of Global Health. 10 (1). doi:[10.7189/jogh.10.010348](https://doi.org/10.7189/jogh.10.010348).
   * Chretien, Jean-Paul; Rivers, Caitlin M.; Johansson, Michael A. (2016). "Make Data Sharing Routine to Prepare for Public Health Emergencies". PLOS Medicine. 13 (8): e1002109. doi:[10.1371/journal.pmed.1002109](https://doi.org/10.1371/journal.pmed.1002109)
   * van Panhuis, Willem G; Paul, Proma; Emerson, Claudia; Grefenstette, John; Wilder, Richard; Herbst, Abraham J; Heymann, David; Burke, Donald S (2014). "A systematic review of barriers to data sharing in public health". BMC Public Health. 14 (1). doi:[10.1186/1471-2458-14-1144](https://doi.org/10.1186/1471-2458-14-1144).
