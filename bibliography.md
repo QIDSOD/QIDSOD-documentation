@@ -27,4 +27,13 @@ More details about our plans are available through the research proposal:
 
 ## Topic profiles
 
-* We have begun to curate a list of relevant literature, based on the [intersection](https://tools.wmflabs.org/scholia/topics/Q5227350,Q95612615,Q1331926,Q4417999,Q84263196,Q202864,Q88434121,Q87745177,Q10538943,Q88835036,Q1149776,Q309901,Q29032648,Q45933174,Q1460420,Q1252988,Q50410669,Q1128437,Q29056927,Q12184,Q182672,Q901464,Q45881698,Q525512,Q192995,Q764527,Q609748,Q2725393,Q59485450,Q17076801) of literature on a range of subjects related to the project (the page might take a minute to render, as it is based on live queries).
+* We have begun to curate overviews of the relevant literature, based on 
+  - the [intersection](https://tools.wmflabs.org/scholia/topics/Q5227350,Q95612615,Q1331926,Q4417999,Q84263196,Q202864,Q88434121,Q87745177,Q10538943,Q88835036,Q1149776,Q309901,Q29032648,Q45933174,Q1460420,Q1252988,Q50410669,Q1128437,Q29056927,Q12184,Q182672,Q901464,Q45881698,Q525512,Q192995,Q764527,Q609748,Q2725393,Q59485450,Q17076801) of literature on a range of subjects related to the project (the page might take a minute to render, as it is based on live queries)
+  - some relevant search terms
+    - [data "outbreak dynamics"](https://openknowledgemaps.org/map/03d669bf2b46a0e5200505dc7931faad)
+    - [data sharing decision outbreak](https://openknowledgemaps.org/map/58c1b24d99c533bbfcfec8f0f0a0deca)
+    - [wastewater epidemiology sewage surveillance](https://openknowledgemaps.org/map/ba6643f9febf6b1823f29784fb4a3a76)
+    - ["data sharing" "decision-making"](https://openknowledgemaps.org/map/d73e70c42f24476acd74d4ad26a49f8f)
+    - ["data sharing" outbreak](https://openknowledgemaps.org/map/57a493dff904939d254ee4fcecf65f5f)
+    - ["covid-19" sewage wastewater sars-cov-2](https://openknowledgemaps.org/map/c8fa9ac4e89c0748d37b8e86cdef55ed)
+    
