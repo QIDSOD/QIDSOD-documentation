@@ -32,4 +32,4 @@ More details on our plans are available through the research proposal:
 
 ## Decision networks
 
-Outbreak dynamics are determined by a combination of factors, including decisions by different stakeholders within or associated with the affected populations. In order to describe the network of their collective decisions, we will consider different kinds of stakeholders in the context of the actions they may or may not take, how decisions related to these actions are informed by data, and how the actions affect outbreak dynamics.
+Outbreak dynamics are determined by a combination of factors, including decisions by different [stakeholders](stakeholders.md) within or associated with the affected populations. In order to describe the network of their collective decisions, we will consider different kinds of stakeholders in the context of the actions they may or may not take, how decisions related to these actions can be informed by data, and how the resulting actions affect outbreak dynamics.
