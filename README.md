@@ -10,7 +10,7 @@ This repository contains documentation related to the project "Quantifying the I
 
 # Project summary
 
-In this project, we will explore the range of data-related decisions made during public health emergencies like the ongoing COVID-19 pandemic and analyze the flow of information, data, and metadata within networks of such decisions.
+In this project, we will explore the range of data-related decisions made during public health emergencies like the ongoing [COVID-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic) and analyze the flow of information, data, and metadata within networks of such decisions.
 
 Data sharing is now considered a key component of addressing present, future, and even past public health emergencies, from local to global levels. Researchers, research institutions, journals and others have taken steps towards increasing the sharing of data around the ongoing COVID-19 pandemic and in preparation for future pandemics.
 
@@ -29,3 +29,7 @@ More details on our plans are available through the research proposal:
 
 * We have begun to curate a corpus of relevant literature, based on the [intersection](https://tools.wmflabs.org/scholia/topics/Q5227350,Q95612615,Q1331926,Q4417999,Q84263196,Q202864,Q88434121,Q87745177,Q10538943,Q88835036,Q1149776,Q309901,Q29032648,Q45933174,Q1460420,Q1252988,Q50410669,Q1128437,Q29056927,Q12184,Q182672,Q901464,Q45881698,Q525512,Q192995,Q764527,Q609748,Q2725393,Q59485450,Q17076801) of literature on a range of subjects related to the project (the page might take a minute to render, as it is based on live queries).
 * In parallel, we are assembling a [list of publications](bibliography.md) that zoom in on selected aspects of our planned research.
+
+## Decision networks
+
+Outbreak dynamics are determined by a combination of factors, including decisions by different stakeholders within or associated with the affected populations. In order to describe the network of their collective decisions, we will consider different kinds of stakeholders in the context of the actions they may or may not take, how decisions related to these actions are informed by data, and how the actions affect outbreak dynamics.
