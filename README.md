@@ -18,7 +18,7 @@ We will quantify the effects of data flow modifications to identify parameter se
 
 # Further information
 
-As of June 2020, we are just getting started, but here are some pointers to help you get into the mood of thinking along.
+Here are some pointers to help you get into the mood of thinking along.
 
 ## Research proposal
 
