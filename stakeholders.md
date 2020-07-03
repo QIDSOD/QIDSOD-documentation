@@ -14,4 +14,5 @@ For instance, [Wang et al. (2016)](https://doi.org/10.1080/13669877.2016.1247377
 
 # Mapping from stakeholders to decisions
 
-* [What decisions do governments have to take during an outbreak?](http://www.allourideas.org/QIDSOD-stakeholders-government)
+* demo: [What decisions do governments have to take during an outbreak?](http://www.allourideas.org/QIDSOD-stakeholders-government)
+  - perhaps change to "in relation to an outbreak"
