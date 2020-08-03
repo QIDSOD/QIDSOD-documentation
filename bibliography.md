@@ -7,8 +7,9 @@ More details about our plans are available through the research proposal:
 
 ## Selected publications
 
-* Some publications that provide an introductory overview to some aspects of our planned research:
+* Some publications that provide an introductory overview to some aspects of this research project:
   * Morgan, Oliver (2019). "How decision makers can use quantitative approaches to guide outbreak responses". Philosophical Transactions of the Royal Society B: Biological Sciences. 374 (1776): 20180365. doi:[10.1098/rstb.2018.0365](https://doi.org/10.1098/rstb.2018.0365)
+  * Riley, Steven; Mossong, Joël; Hens, Niel; Jit, Mark; Beutels, Philippe; Auranen, Kari; Mikolajczyk, Rafael; Massari, Marco; Salmaso, Stefania; Tomba, Gianpaolo Scalia; Wallinga, Jacco; Heijne, Janneke; Sadkowska-Todys, Malgorzata; Rosinska, Magdalena; Edmunds, W. John (2008). "Social Contacts and Mixing Patterns Relevant to the Spread of Infectious Diseases". PLoS Medicine. 5 (3): e74. doi:[10.1371/journal.pmed.0050074](https://doi.org/10.1371/journal.pmed.0050074).
   * Mullen, Lucia; Potter, Christina; Gostin, Lawrence O; Cicero, Anita; Nuzzo, Jennifer B (2020). "An analysis of International Health Regulations Emergency Committees and Public Health Emergency of International Concern Designations". BMJ Global Health. 5 (6): e002502. doi:[10.1136/bmjgh-2020-002502](https://doi.org/10.1136/bmjgh-2020-002502).
   * Atzrodt, Cassandra L.; Maknojia, Insha; McCarthy, Robert D.P.; Oldfield, Tiara M.; Po, Jonathan; Ta, Kenny T.L.; Stepp, Hannah E.; Clements, Thomas P. (2020). "A Guide to COVID‐19: a global pandemic caused by the novel coronavirus SARS‐CoV‐2". The FEBS Journal. doi:[10.1111/febs.15375](https://doi.org/10.1111/febs.15375).
   * Friston, Karl J.; Parr, Thomas; Zeidman, Peter; Razi, Adeel; Flandin, Guillaume; Daunizeau, Jean; Hulme, Oliver J.; Billig, Alexander J.; Litvak, Vladimir; Moran, Rosalyn J.; Price, Cathy J.; Lambert, Christian (2020-04-09). "Dynamic causal modelling of COVID-19". arXiv:[2004.04463](https://arxiv.org/abs/2004.04463).
