@@ -53,7 +53,7 @@ More details about our plans are available through the research proposal:
 ## Topic profiles
 
 * We have begun to curate overviews of the relevant literature, based on 
-  - the [intersection](https://tools.wmflabs.org/scholia/topics/Q5227350,Q95612615,Q1331926,Q4417999,Q84263196,Q202864,Q88434121,Q87745177,Q10538943,Q88835036,Q1149776,Q309901,Q29032648,Q45933174,Q1460420,Q1252988,Q50410669,Q1128437,Q29056927,Q12184,Q182672,Q901464,Q45881698,Q525512,Q192995,Q764527,Q609748,Q2725393,Q59485450,Q17076801) of literature on a range of subjects related to the project (the page might take a minute to render, as it is based on live queries)
+  - the [intersection](https://scholia.toolforge.org/topics/Q5227350,Q95612615,Q1331926,Q4417999,Q84263196,Q202864,Q88434121,Q87745177,Q10538943,Q88835036,Q1149776,Q309901,Q29032648,Q45933174,Q1460420,Q1252988,Q50410669,Q1128437,Q29056927,Q12184,Q182672,Q901464,Q45881698,Q525512,Q192995,Q764527,Q609748,Q2725393,Q59485450,Q17076801) of literature on a range of subjects related to the project (the page might take a minute to render, as it is based on live queries)
   - [COVID-19 publications with UVA (co-)authors](https://scholia.toolforge.org/organization/Q213439/topic/Q84263196)
   - some relevant search terms
     - [data "outbreak dynamics"](https://openknowledgemaps.org/map/03d669bf2b46a0e5200505dc7931faad)
