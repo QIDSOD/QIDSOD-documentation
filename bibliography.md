@@ -55,6 +55,7 @@ More details about our plans are available through the research proposal:
 * Haug, Nils; Geyrhofer, Lukas; Londei, Alessandro; Dervic, Elma; Desvars-Larrive, Amélie; Loreto, Vittorio; Pinior, Beate; Thurner, Stefan; Klimek, Peter (2020). "Ranking the effectiveness of worldwide COVID-19 government interventions". Nature Human Behaviour. 4 (12): 1303–1312. doi:[10.1038/s41562-020-01009-0](https://doi.org/10.1038/s41562-020-01009-0).
   * overview in [Figure 1](https://www.nature.com/articles/s41562-020-01009-0/figures/1)
   * see also [Non-pharmaceutical intervention (epidemiology)](https://en.wikipedia.org/wiki/Non-pharmaceutical_intervention_(epidemiology))
+* Dean, Natalie (2021). "COVID vaccination studies: plan now to pool data, or be bogged down in confusion". Nature. 591 (7849): 179–179. doi:[10.1038/d41586-021-00563-5](https://doi.org/10.1038/d41586-021-00563-5).
 
 ## Topic profiles
 
