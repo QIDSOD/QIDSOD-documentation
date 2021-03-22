@@ -52,6 +52,9 @@ More details about our plans are available through the research proposal:
   * Maxmen, Amy (2020). "Ebola prepared these countries for coronavirus — but now even they are floundering". Nature. doi:[10.1038/d41586-020-02173-z](https://doi.org/10.1038/d41586-020-02173-z).
   * Castro, K. G. (2007). "Tuberculosis Surveillance: Data for Decision-Making". Clinical Infectious Diseases. 44 (10): 1268–1270. doi:[10.1086/514351](https://doi.org/10.1098/10.1086/514351)
   * Gostin, Lawrence O. (2004). "Pandemic Influenza: Public Health Preparedness for the Next Global Health Emergency". The Journal of Law, Medicine & Ethics. 32 (4): 565–573. doi:[10.1111/j.1748-720X.2004.tb01962.x](https://doi.org/10.1111/j.1748-720X.2004.tb01962.x).
+* Haug, Nils; Geyrhofer, Lukas; Londei, Alessandro; Dervic, Elma; Desvars-Larrive, Amélie; Loreto, Vittorio; Pinior, Beate; Thurner, Stefan; Klimek, Peter (2020). "Ranking the effectiveness of worldwide COVID-19 government interventions". Nature Human Behaviour. 4 (12): 1303–1312. doi:[10.1038/s41562-020-01009-0](https://doi.org/10.1038/s41562-020-01009-0).
+  * overview in [Figure 1](https://www.nature.com/articles/s41562-020-01009-0/figures/1)
+  * see also [Non-pharmaceutical intervention (epidemiology)](https://en.wikipedia.org/wiki/Non-pharmaceutical_intervention_(epidemiology))
 
 ## Topic profiles
 
